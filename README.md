@@ -1,4 +1,10 @@
-## Hi there 👋
+## About me! 👋
+
+- I'm currently in the fourth year of my Chemistry undergraduate degree at McMaster University.
+- I am most interested in inorganic chemistry (Nothing specific, just anything related to inorganic chemistry).
+- My goal is to become a high school chemistry teacher.
+- My favourite hobby is playing board games with family and friends.
+
 
 <!--
 **Bennajev/Bennajev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
